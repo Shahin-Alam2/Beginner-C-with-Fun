@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1526309191 source:c:\users\lenovo\desktop\program.c\interesting\alert.c
+	<stdio.h>
+
+1526309397 source:c:\users\lenovo\desktop\program.c\interesting\main.c
+	<stdio.h>
+
